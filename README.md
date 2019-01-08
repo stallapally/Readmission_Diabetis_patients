@@ -1,7 +1,7 @@
 # Readmission_Diabetis_patients
 
-This dataset has diabetic patients information. Predictive modelling to identify whether patient will join the hospital or not.
-Used 'ICD' package to group icd codes. To select the variables which are important, used Random Forest's gini map to select features which
-explained most of the model. 
-Developed kNN, Naive Bayes, SVM models for classification.
+Tools: R
+Project: Dataset is taken from www.kaggle.com. This dataset has diabetic patients information. Project is to predict whether patient will readmit into hospital or not.
+
+Data cleaning, preprocessing was done in R. Used 'ICD' package to group icd codes. To select the variables which are important, used Random Forest's gini map to select features which explained most of the model. Built kNN, Naive Bayes, SVM models for classification.
 
